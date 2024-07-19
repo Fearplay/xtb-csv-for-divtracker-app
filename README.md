@@ -43,9 +43,8 @@ Python project to transform a csv file from XTB into a csv file that can be used
 
 ## Usage
 
-1. Enter the path **to** your csv file
-2. Enter the path for your **output** csv file
-3. The **output** csv file can be imported to **Transactions** in the **app**
+1. In terminal: `python -i {xtb_csv_path} -o {output_csv_path}`
+2. The **output** csv file can be imported to **Transactions** in the **app**
 
 ## Resources
 
